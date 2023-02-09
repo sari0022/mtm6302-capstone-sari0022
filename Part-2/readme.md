@@ -1,0 +1,1 @@
+I chose a simple design for this project and wanted to create a user-friendly website.
